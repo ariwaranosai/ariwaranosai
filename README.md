@@ -14,6 +14,5 @@
   - PR: [make ClientHandle api return Send](https://github.com/bluejekyll/trust-dns/pull/465)
 - mmf
   - PR: [package configs in sdist package](https://github.com/facebookresearch/mmf/pull/488)
-  - Bug Report: [in lxmert get_image_and_text_features fn](https://github.com/facebookresearch/mmf/issues/520)
 - ...
   
